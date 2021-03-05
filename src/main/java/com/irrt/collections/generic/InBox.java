@@ -1,4 +1,4 @@
-package com.irrt.generic;
+package com.irrt.collections.generic;
 
 public class InBox <T>{
     private T obj;

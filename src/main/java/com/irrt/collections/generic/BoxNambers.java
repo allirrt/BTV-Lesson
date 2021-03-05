@@ -1,4 +1,4 @@
-package com.irrt.generic;
+package com.irrt.collections.generic;
 
 import java.util.List;
 

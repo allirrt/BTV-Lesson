@@ -24,7 +24,7 @@ public class Phone {
 
     public void add(String name, int number[]) {
         Phone phoneBook = new Phone(phone);
-        phone.put(name, number);
+        phone.putIfAbsent(name, number);
 
     }
 

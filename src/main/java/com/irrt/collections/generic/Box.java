@@ -1,4 +1,4 @@
-package com.irrt.generic;
+package com.irrt.collections.generic;
 
 public class Box implements Comparable <Box>{
     private int size;

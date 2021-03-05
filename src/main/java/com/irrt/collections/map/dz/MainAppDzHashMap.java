@@ -3,7 +3,7 @@ package com.irrt.collections.map.dz;
 import java.util.HashMap;
 
 
-public class MainAppDzHashTable {
+public class MainAppDzHashMap {
     public static void main(String[] args) {
         HashMap<String, int[]> phones = new HashMap<>();
         Phone phoneBook = new Phone(phones);
